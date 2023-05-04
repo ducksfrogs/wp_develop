@@ -1,0 +1,14 @@
+{
+  "name": "dock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"wp-env": "wp-env"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/env": "^6.0.0"
+  }
+}
